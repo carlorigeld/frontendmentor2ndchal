@@ -23,6 +23,7 @@ body {
   background-image: url("../images/bg-pattern-bottom.svg"), url("../images/bg-pattern-top.svg");
   background-position: right -60vh top 50vh, left -60vh bottom 50vh;
   background-repeat: no-repeat, no-repeat;
+  height: 100vh;
 }
 
 @media (min-width: 1025px) {
